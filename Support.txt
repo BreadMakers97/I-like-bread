@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A Bill Bryson-inspired DIY hub featuring guides on brewing, baking, sauces, and home projects, with links to recommended tools and resources.">
+    <title>Delightful DIY</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Delightful DIY</h1>
+            <p>Life, One Delightful Project at a Time</p>
+            <nav>
+                <ul>
+                    <li><a href="#brewing">Brewing</a></li>
+                    <li><a href="#baking">Baking</a></li>
+                    <li><a href="#sauces">Sauces</a></li>
+                    <li><a href="#projects">DIY Projects</a></li>
+                    <li><a href="#resources">Resources</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h2>Your Gateway to Delightful DIY Adventures</h2>
+            <p>Explore fun, creative projects and discover the best tools and resources to bring your ideas to life.</p>
+            <a href="#resources" class="cta-button">Explore Tools & Resources</a>
+        </div>
+    </section>
+
+    <main>
+        <section id="brewing" class="category-section">
+            <div class="container">
+                <h2>Brewing & Beverages</h2>
+                <p>Master the art of fermentation with our guides on brewing beers, kombucha, and more.</p>
+                <a href="#" class="affiliate-link">Shop Brewing Essentials <i class="fas fa-arrow-right"></i></a>
+            </div>
+        </section>
+
+        <section id="baking" class="category-section">
+            <div class="container">
+                <h2>Breads & Baking</h2>
+                <p>From sourdough to pizza crust, learn how to bake like a pro at home.</p>
+                <a href="#" class="affiliate-link">Shop Baking Supplies <i class="fas fa-arrow-right"></i></a>
+            </div>
+        </section>
+
+        <section id="sauces" class="category-section">
+            <div class="container">
+                <h2>Sauces & Condiments</h2>
+                <p>Transform any dish with homemade sauces and spreads.</p>
+                <a href="#" class="affiliate-link">Shop Sauce Making Tools <i class="fas fa-arrow-right"></i></a>
+            </div>
+        </section>
+
+        <section id="projects" class="category-section">
+            <div class="container">
+                <h2>DIY Home Projects</h2>
+                <p>Craft birdhouses, shelves, and other delightful creations with ease.</p>
+                <a href="#" class="affiliate-link">Shop DIY Kits <i class="fas fa-arrow-right"></i></a>
+            </div>
+        </section>
+
+        <section id="resources" class="resources-section">
+            <div class="container">
+                <h2>Resources & Tools</h2>
+                <p>Browse our curated list of recommended books, tools, and materials.</p>
+                <ul class="resource-list">
+                    <li><a href="#">Best Bread-Making Tools</a></li>
+                    <li><a href="#">Top Homebrewing Kits</a></li>
+                    <li><a href="#">Essential DIY Power Tools</a></li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Delightful DIY. All rights reserved.</p>
+            <ul class="social-links">
+                <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
